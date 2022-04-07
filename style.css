@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+.note{
+    font-size: 16px;
+    color: red;
+}
+.speed{
+    float: left;
+}
+.speed_img{
+    width:300px;
+    border-radius: 150px;
+}
+#speed{
+    font-size: 20px;
+}
+.volume{
+    float: right;
+}
+.volume_img{
+    width:300px;
+    border-radius: 150px;
+}
+#volume{
+    font-size: 20px;
+}
+#playbtn,#stopbtn{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+canvas{
+    border:3px dotted blanchedalmond;
+    border-radius: 10px;
+}
